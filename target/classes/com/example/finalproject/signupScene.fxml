@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.SignupScene">
+    <children>
+        <Text layoutX="167.0" layoutY="72.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Join Twiter today.">
+            <font>
+                <Font name="Serif Regular" size="50.0" />
+            </font>
+        </Text>
+        <TextField fx:id="firstname" layoutX="85.0" layoutY="105.0" onAction="#setFirstname" prefHeight="33.0" prefWidth="300.0" promptText="Firstname" style="-fx-border-color: #1DA1F2;">
+            <font>
+                <Font name="Serif Regular" size="13.0" />
+            </font>
+        </TextField>
+        <TextField fx:id="lastname" layoutX="85.0" layoutY="163.0" onAction="#setLastname" prefHeight="35.0" prefWidth="300.0" promptText="Lastname" style="-fx-border-color: #1DA1F2;">
+         <font>
+            <Font name="Serif Regular" size="13.0" />
+         </font></TextField>
+        <TextField fx:id="username" layoutX="85.0" layoutY="223.0" onAction="#usernameError" prefHeight="33.0" prefWidth="300.0" promptText="Username" style="-fx-border-color: #1DA1F2;">
+         <font>
+            <Font name="Serif Regular" size="13.0" />
+         </font></TextField>
+        <TextField fx:id="email" layoutX="85.0" layoutY="283.0" onAction="#emailError" prefHeight="33.0" prefWidth="300.0" promptText="Email" style="-fx-border-color: #1DA1F2;">
+         <font>
+            <Font name="Serif Regular" size="13.0" />
+         </font></TextField>
+        <TextField fx:id="phoneNumber" layoutX="85.0" layoutY="341.0" onAction="#phoneNumberError" prefHeight="33.0" prefWidth="300.0" promptText="Phone number" style="-fx-border-color: #1DA1F2;">
+         <font>
+            <Font name="Serif Regular" size="13.0" />
+         </font></TextField>
+        <TextField fx:id="birthdate" layoutX="85.0" layoutY="453.0" onAction="#setBirthdate" prefHeight="33.0" prefWidth="300.0" promptText="Birthdate(YYYY-MM-DD)" style="-fx-border-color: #1DA1F2;">
+         <font>
+            <Font name="Serif Regular" size="13.0" />
+         </font></TextField>
+        <ChoiceBox fx:id="choiceBox" layoutX="85.0" layoutY="400.0" prefHeight="33.0" prefWidth="300.0" style="-fx-background-color: #1DA1F2;" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="432.0" layoutY="175.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo_of_Twitter.svg.png" />
+         </image>
+      </ImageView>
+      <Hyperlink layoutX="576.0" layoutY="454.0" onAction="#switchToPasswordScene" text="Next?">
+         <font>
+            <Font name="Serif Regular" size="20.0" />
+         </font>
+      </Hyperlink>
+      <Text fx:id="takenUsername" fill="RED" layoutX="85.0" layoutY="274.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This username is taken." visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+      <Text fx:id="invalidEmail" fill="RED" layoutX="85.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This email is invalid." visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+      <Text fx:id="signedUpEmail" fill="RED" layoutX="85.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This email has already signed up" visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+      <Text fx:id="invalidPhoneNumber" fill="RED" layoutX="85.0" layoutY="392.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This phone number is invalid." visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+      <Text fx:id="signedUpPhoneNumber" fill="RED" layoutX="85.0" layoutY="392.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This phone number has already signed up." visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+    </children>
+</AnchorPane>

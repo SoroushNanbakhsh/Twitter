@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.AvatarOptionScene">
+   <children>
+      <Text fill="#1da1f2" layoutX="83.0" layoutY="118.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Do you want to set avatar?">
+         <font>
+            <Font name="Serif Regular" size="50.0" />
+         </font>
+      </Text>
+      <Button layoutX="205.0" layoutY="223.0" mnemonicParsing="false" onAction="#yesButton" prefHeight="46.0" prefWidth="290.0" style="-fx-background-color: #1da1f2; -fx-background-radius: 30;" text="Yes" textFill="WHITE">
+         <font>
+            <Font name="Serif Regular" size="30.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="26.0" layoutY="325.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo_of_Twitter.svg.png" />
+         </image>
+      </ImageView>
+      <Hyperlink layoutX="573.0" layoutY="429.0" onAction="#finish" text="Finish?">
+         <font>
+            <Font name="Serif Regular" size="25.0" />
+         </font>
+      </Hyperlink>
+   </children>
+</AnchorPane>

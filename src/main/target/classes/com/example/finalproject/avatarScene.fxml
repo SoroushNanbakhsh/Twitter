@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.AvatarScene">
+   <children>
+      <Text fill="#1da1f2" layoutX="79.0" layoutY="110.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter your avatar path please">
+         <font>
+            <Font name="Serif Regular" size="50.0" />
+         </font>
+      </Text>
+      <TextField fx:id="path" layoutX="185.0" layoutY="195.0" prefHeight="55.0" prefWidth="330.0" style="-fx-border-color: #1da1f2;">
+         <font>
+            <Font name="Serif Bold" size="15.0" />
+         </font>
+      </TextField>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="14.0" layoutY="330.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo_of_Twitter.svg.png" />
+         </image>
+      </ImageView>
+      <Hyperlink layoutX="591.0" layoutY="437.0" onAction="#finish" text="Finish?">
+         <font>
+            <Font name="Serif Regular" size="20.0" />
+         </font>
+      </Hyperlink>
+   </children>
+</AnchorPane>

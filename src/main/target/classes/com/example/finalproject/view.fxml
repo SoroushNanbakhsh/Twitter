@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="700.0" style="-fx-background-radius: 0;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.TwitterController">
+   <children>
+      <ImageView fitHeight="86.0" fitWidth="109.0" layoutX="30.0" layoutY="32.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../../images/Logo_of_Twitter2.svg.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="189.0" layoutY="179.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Log in to Twitter">
+         <font>
+            <Font name="Serif Regular" size="42.0" />
+         </font>
+      </Text>
+      <TextField fx:id="username" layoutX="189.0" layoutY="204.0" prefHeight="46.0" prefWidth="290.0" promptText="Username" />
+      <PasswordField fx:id="password" layoutX="189.0" layoutY="261.0" prefHeight="46.0" prefWidth="290.0" promptText="Password" />
+      <Button layoutX="189.0" layoutY="349.0" mnemonicParsing="false" onAction="#loginButton" prefHeight="46.0" prefWidth="290.0" style="-fx-background-color: #1DA1F2; -fx-background-radius: 30;" text="Log in">
+         <font>
+            <Font name="Serif Regular" size="19.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.39473684210526316" radius="0.5">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="1.0" green="1.0" blue="1.0" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="1.0" green="1.0" blue="1.0" />
+                     </color>
+                  </Stop>
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <ImageView fx:id="imageView" fitHeight="116.0" fitWidth="165.0" layoutX="14.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo_of_Twitter.svg.png" />
+         </image>
+      </ImageView>
+      <Hyperlink layoutX="294.0" layoutY="410.0" onAction="#changeToSignupScene" text="sign up?">
+         <font>
+            <Font name="Serif Regular" size="20.0" />
+         </font>
+      </Hyperlink>
+      <Text fx:id="incorrect" fill="#e10a0a" layoutX="189.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Your account or password is incorrect!" visible="false">
+         <font>
+            <Font name="Serif Regular" size="15.0" />
+         </font>
+      </Text>
+      <Button layoutX="541.0" layoutY="131.0" mnemonicParsing="false" onAction="#changeToTimeLine" text="Button" />
+   </children>
+</AnchorPane>

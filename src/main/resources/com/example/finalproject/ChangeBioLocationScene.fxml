@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.ChangeBioLocationScene">
+   <children>
+      <TextArea layoutX="200.0" layoutY="24.0" prefHeight="65.0" prefWidth="200.0" text="Enter New Location" />
+      <TextField fx:id="newLocation" layoutX="204.0" layoutY="137.0" prefHeight="26.0" prefWidth="193.0" promptText="New Location" />
+      <Button fx:id="changeButton" layoutX="247.0" layoutY="349.0" mnemonicParsing="false" onAction="#changeBioLocation" prefHeight="26.0" prefWidth="107.0" text="Change" />
+   </children>
+</AnchorPane>

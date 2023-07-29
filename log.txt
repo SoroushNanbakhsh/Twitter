@@ -1,0 +1,197 @@
+Command: Server started | Request: null | Response: null | Date: 30/06/2023 13:22:01
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 14:57:52
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 15:12:39
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 15:16:51
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:43:24
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:45:51
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:46:23
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 16:46:35
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:49:06
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:53:26
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 16:53:40
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@733cf5ca | Response: null | Date: 01/07/2023 16:53:44
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5bea95a2 | Date: 01/07/2023 16:53:44
+Command: Client N2left | Request: null | Response: null | Date: 01/07/2023 16:53:55
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:54:17
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 16:54:24
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@178f90f7 | Response: null | Date: 01/07/2023 16:54:41
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@62c187b0 | Date: 01/07/2023 16:54:41
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3bc2841a | Response: null | Date: 01/07/2023 16:54:54
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@108142b0 | Date: 01/07/2023 16:54:54
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@69a5404f | Response: null | Date: 01/07/2023 16:54:54
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@732b1b09 | Date: 01/07/2023 16:54:54
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@65cd801e | Response: null | Date: 01/07/2023 16:54:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64d20c75 | Date: 01/07/2023 16:54:58
+Command: Client N2left | Request: null | Response: null | Date: 01/07/2023 16:56:32
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 16:57:13
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:02:41
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:02:57
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@733cf5ca | Response: null | Date: 01/07/2023 17:03:29
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5bea95a2 | Date: 01/07/2023 17:03:29
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@777f99ed | Response: null | Date: 01/07/2023 17:03:36
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@6d0b71f9 | Date: 01/07/2023 17:03:36
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7aa0af5d | Response: null | Date: 01/07/2023 17:03:36
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@4c128d49 | Date: 01/07/2023 17:03:36
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@35578a26 | Response: null | Date: 01/07/2023 17:03:41
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1be1f40e | Date: 01/07/2023 17:03:41
+Command: Client N2left | Request: null | Response: null | Date: 01/07/2023 17:06:13
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:06:24
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:06:34
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@733cf5ca | Response: null | Date: 01/07/2023 17:06:49
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5bea95a2 | Date: 01/07/2023 17:06:49
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@777f99ed | Response: null | Date: 01/07/2023 17:07:12
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@6d0b71f9 | Date: 01/07/2023 17:07:12
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7aa0af5d | Response: null | Date: 01/07/2023 17:07:12
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@4c128d49 | Date: 01/07/2023 17:07:12
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@35578a26 | Response: null | Date: 01/07/2023 17:07:18
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1be1f40e | Date: 01/07/2023 17:07:18
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@356b607c | Response: null | Date: 01/07/2023 17:07:46
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@213ea35b | Date: 01/07/2023 17:07:46
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:08:15
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:08:22
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@534d232f | Response: null | Date: 01/07/2023 17:08:53
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1bce9b36 | Date: 01/07/2023 17:08:53
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@115da68e | Response: null | Date: 01/07/2023 17:09:00
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5bb97445 | Date: 01/07/2023 17:09:00
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@1be28b22 | Response: null | Date: 01/07/2023 17:09:00
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@b69cf47 | Date: 01/07/2023 17:09:00
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@65c7303f | Response: null | Date: 01/07/2023 17:09:04
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@3b2a071b | Date: 01/07/2023 17:09:04
+Command: Client N2left | Request: null | Response: null | Date: 01/07/2023 17:09:40
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3be6139 | Response: null | Date: 01/07/2023 17:09:55
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@d799f3e | Date: 01/07/2023 17:09:55
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@9460a49 | Response: null | Date: 01/07/2023 17:10:20
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@4c449505 | Date: 01/07/2023 17:10:20
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3c03921d | Response: null | Date: 01/07/2023 17:10:20
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@7dc27acc | Date: 01/07/2023 17:10:20
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:10:51
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:10:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@178f90f7 | Response: null | Date: 01/07/2023 17:11:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@62c187b0 | Date: 01/07/2023 17:11:07
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:11:43
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:11:47
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@733cf5ca | Response: null | Date: 01/07/2023 17:12:02
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5bea95a2 | Date: 01/07/2023 17:12:02
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@777f99ed | Response: null | Date: 01/07/2023 17:12:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@6d0b71f9 | Date: 01/07/2023 17:12:07
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7aa0af5d | Response: null | Date: 01/07/2023 17:12:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@4c128d49 | Date: 01/07/2023 17:12:07
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@35578a26 | Response: null | Date: 01/07/2023 17:12:13
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1be1f40e | Date: 01/07/2023 17:12:13
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:13:41
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:13:46
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@178f90f7 | Response: null | Date: 01/07/2023 17:14:04
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@62c187b0 | Date: 01/07/2023 17:14:04
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3bc2841a | Response: null | Date: 01/07/2023 17:14:20
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@108142b0 | Date: 01/07/2023 17:14:20
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@69a5404f | Response: null | Date: 01/07/2023 17:14:20
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@732b1b09 | Date: 01/07/2023 17:14:20
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@65cd801e | Response: null | Date: 01/07/2023 17:14:24
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64d20c75 | Date: 01/07/2023 17:14:24
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:17:41
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:17:45
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@178f90f7 | Response: null | Date: 01/07/2023 17:18:01
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@62c187b0 | Date: 01/07/2023 17:18:01
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3bc2841a | Response: null | Date: 01/07/2023 17:18:08
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@108142b0 | Date: 01/07/2023 17:18:08
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@69a5404f | Response: null | Date: 01/07/2023 17:18:08
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@732b1b09 | Date: 01/07/2023 17:18:08
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@65cd801e | Response: null | Date: 01/07/2023 17:18:17
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64d20c75 | Date: 01/07/2023 17:18:17
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:21:18
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:21:22
+Command: Client N2left | Request: null | Response: null | Date: 01/07/2023 17:21:38
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@5d0072a2 | Response: null | Date: 01/07/2023 17:22:01
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1beb9e09 | Date: 01/07/2023 17:22:01
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@6bee77f9 | Response: null | Date: 01/07/2023 17:22:01
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@274d6a04 | Date: 01/07/2023 17:22:01
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@420473a9 | Response: null | Date: 01/07/2023 17:22:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5be14164 | Date: 01/07/2023 17:22:07
+Command: Client N3left | Request: null | Response: null | Date: 01/07/2023 17:28:43
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:29:04
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:31:26
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@408899a2 | Response: null | Date: 01/07/2023 17:31:52
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@30dbfa6b | Date: 01/07/2023 17:31:52
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@11740829 | Response: null | Date: 01/07/2023 17:31:59
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@7154132e | Date: 01/07/2023 17:31:59
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7ba7b46 | Response: null | Date: 01/07/2023 17:31:59
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@56a6d5fc | Date: 01/07/2023 17:31:59
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:32:55
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:33:00
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@178f90f7 | Response: null | Date: 01/07/2023 17:33:10
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@62c187b0 | Date: 01/07/2023 17:33:10
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3bc2841a | Response: null | Date: 01/07/2023 17:33:16
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@108142b0 | Date: 01/07/2023 17:33:16
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@69a5404f | Response: null | Date: 01/07/2023 17:33:16
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@732b1b09 | Date: 01/07/2023 17:33:16
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@65cd801e | Response: null | Date: 01/07/2023 17:33:21
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64d20c75 | Date: 01/07/2023 17:33:21
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 17:35:45
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 17:36:56
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@408899a2 | Response: null | Date: 01/07/2023 17:37:08
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@30dbfa6b | Date: 01/07/2023 17:37:08
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@11740829 | Response: null | Date: 01/07/2023 17:37:14
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@7154132e | Date: 01/07/2023 17:37:14
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7ba7b46 | Response: null | Date: 01/07/2023 17:37:14
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@56a6d5fc | Date: 01/07/2023 17:37:14
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@6850a8b | Response: null | Date: 01/07/2023 17:37:23
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@40ba2b6b | Date: 01/07/2023 17:37:23
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:01:12
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:01:27
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:02:14
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:02:20
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:02:42
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:02:47
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@4957fe4b | Response: null | Date: 01/07/2023 18:03:00
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64c0babc | Date: 01/07/2023 18:03:00
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@15c7f327 | Response: null | Date: 01/07/2023 18:03:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@44b0277 | Date: 01/07/2023 18:03:07
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@c398995 | Response: null | Date: 01/07/2023 18:03:07
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@50bd6adf | Date: 01/07/2023 18:03:07
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@38378925 | Response: null | Date: 01/07/2023 18:03:11
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@76f18e0b | Date: 01/07/2023 18:03:11
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:07:03
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:07:06
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@4957fe4b | Response: null | Date: 01/07/2023 18:07:16
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@64c0babc | Date: 01/07/2023 18:07:16
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@15c7f327 | Response: null | Date: 01/07/2023 18:07:22
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@44b0277 | Date: 01/07/2023 18:07:22
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@c398995 | Response: null | Date: 01/07/2023 18:07:22
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@50bd6adf | Date: 01/07/2023 18:07:22
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@38378925 | Response: null | Date: 01/07/2023 18:07:26
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@76f18e0b | Date: 01/07/2023 18:07:26
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@37bcad00 | Response: null | Date: 01/07/2023 18:07:44
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@7c418de4 | Date: 01/07/2023 18:07:44
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@6321d41b | Response: null | Date: 01/07/2023 18:10:41
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@623f4b41 | Date: 01/07/2023 18:10:41
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@4aea1a0e | Response: null | Date: 01/07/2023 18:10:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@72319a76 | Date: 01/07/2023 18:10:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@784f35c6 | Response: null | Date: 01/07/2023 18:11:08
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@652d24d3 | Date: 01/07/2023 18:11:08
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@7d9a6e0 | Response: null | Date: 01/07/2023 18:11:09
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@44f6a3af | Date: 01/07/2023 18:11:09
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@330efa29 | Response: null | Date: 01/07/2023 18:11:09
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@59185f27 | Date: 01/07/2023 18:11:09
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:25:06
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:25:22
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@75e628a0 | Response: null | Date: 01/07/2023 18:27:13
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1527b5f5 | Date: 01/07/2023 18:27:13
+Command: Server started | Request: null | Response: null | Date: 01/07/2023 18:28:10
+Command: Client N1left | Request: null | Response: null | Date: 01/07/2023 18:28:17
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@75e628a0 | Response: null | Date: 01/07/2023 18:28:36
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@1527b5f5 | Date: 01/07/2023 18:28:36
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3436b039 | Response: null | Date: 01/07/2023 18:28:46
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@47488ddf | Date: 01/07/2023 18:28:46
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@63caa36 | Response: null | Date: 01/07/2023 18:28:57
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@5d2aba | Date: 01/07/2023 18:28:57
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@46c42642 | Response: null | Date: 01/07/2023 18:28:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@487b48bb | Date: 01/07/2023 18:28:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@254cdf28 | Response: null | Date: 01/07/2023 18:28:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@39e03715 | Date: 01/07/2023 18:28:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@2fea6fe1 | Response: null | Date: 01/07/2023 18:28:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@2d806b4a | Date: 01/07/2023 18:28:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@5363710d | Response: null | Date: 01/07/2023 18:28:58
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@44150849 | Date: 01/07/2023 18:28:58
+Command: Request | Request: com.example.finalproject.Models.RequestAndResponse.Request@3b4efd8b | Response: null | Date: 01/07/2023 18:28:59
+Command: Response | Request: null | Response: com.example.finalproject.Models.RequestAndResponse.Response@2152e50b | Date: 01/07/2023 18:28:59
+Command: Client N2left | Request: null | Response: null | Date: 02/07/2023 07:03:30

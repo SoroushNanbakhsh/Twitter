@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.finalproject.ChangeBioScene">
+   <children>
+      <Button fx:id="changeBioTextButton" mnemonicParsing="false" onAction="#changeBioText" prefHeight="26.0" prefWidth="170.0" text="Change Bio Text" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" visible="false" />
+      <Button fx:id="changeBioLocationButton" mnemonicParsing="false" onAction="#changeBioLocation" prefHeight="26.0" prefWidth="172.0" text="Change Bio Location" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" visible="false" />
+      <Button fx:id="changeBioWebsiteURLButton" mnemonicParsing="false" onAction="#changeBioWebsiteURL" prefHeight="26.0" prefWidth="177.0" text="Change Bio Website URL" />
+   </children>
+</VBox>
